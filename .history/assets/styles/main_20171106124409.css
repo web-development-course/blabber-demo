@@ -1,0 +1,15 @@
+body {
+  background-image: url('images/bla.jpg');
+  padding-top: 30px;
+}
+
+.white-box {
+  background: white;
+  padding: 20px;
+  margin: 20px auto 0px auto;
+  max-width: 520px;
+  border: 1px solid #ccc;
+  font-family: verdana;
+  border-radius: 7px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+}

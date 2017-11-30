@@ -1,0 +1,35 @@
+body {
+  background-image: url('../images/bla.jpg');
+  background-size: 100%;
+  background-repeat: repeat;
+  padding-top: 30px;
+}
+
+.white-box {
+  background: white;
+  padding: 20px;
+  margin: 20px auto 0px auto;
+  max-width: 520px;
+  border: 1px solid #ccc;
+  font-family: verdana;
+  border-radius: 7px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+}
+
+.input-box label {
+  display: block;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+.input-box .input {
+  width: calc(100% - 20px);
+  display: block;
+  height: 50px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  padding: 7px;
+  margin-bottom: 20px;
+}
